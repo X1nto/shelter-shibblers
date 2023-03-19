@@ -1,0 +1,15 @@
+{
+    "name": "cock",
+    "version": "1.0.0",
+    "description": "sucks cock",
+    "devDependencies": {
+        "@uwu/lune": "^1.0.2",
+        "@uwu/shelter-defs": "^1.0.2",
+        "solid-js": "^1.6.15"
+    },
+    "type": "module",
+    "dependencies": {
+        "@types/chrome": "^0.0.224",
+        "@types/node": "^18.15.3"
+    }
+}
